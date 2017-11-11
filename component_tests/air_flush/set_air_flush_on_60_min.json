@@ -1,0 +1,26 @@
+{
+   "_id": "set_air_flush_on_60_min",
+   "format": "simple",
+   "operations": [
+       [
+           0,
+           "air_flush_on",
+           60
+       ],
+       [
+           3600,
+           "air_flush_on",
+           60
+       ],
+       [
+           3600,
+           "air_flush_on",
+           0
+       ],
+       [
+           3610,
+           "air_flush_on",
+           0
+       ],
+   ]
+}
